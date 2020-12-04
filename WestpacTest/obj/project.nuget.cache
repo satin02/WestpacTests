@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "jc9DC20AoTgxoQvJfnlbllZSYE+RgQc0bAQKeKN+kLMXuxmEap4WBv9S6dU3HJ0ONnSDQSIDOZqShhln63Cdgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Satinder\\source\\repos\\WestpacTest\\WestpacTest\\WestpacTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Satinder\\.nuget\\packages\\microsoft.codecoverage\\16.9.0-preview-20201123-03\\microsoft.codecoverage.16.9.0-preview-20201123-03.nupkg.sha512",
+    "C:\\Users\\Satinder\\.nuget\\packages\\microsoft.net.test.sdk\\16.9.0-preview-20201123-03\\microsoft.net.test.sdk.16.9.0-preview-20201123-03.nupkg.sha512",
+    "C:\\Users\\Satinder\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Satinder\\.nuget\\packages\\microsoft.testplatform.objectmodel\\16.9.0-preview-20201123-03\\microsoft.testplatform.objectmodel.16.9.0-preview-20201123-03.nupkg.sha512",
+    "C:\\Users\\Satinder\\.nuget\\packages\\microsoft.testplatform.testhost\\16.9.0-preview-20201123-03\\microsoft.testplatform.testhost.16.9.0-preview-20201123-03.nupkg.sha512",
+    "C:\\Users\\Satinder\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Satinder\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Satinder\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512",
+    "C:\\Users\\Satinder\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\Satinder\\.nuget\\packages\\nunit3testadapter\\4.0.0-beta.1\\nunit3testadapter.4.0.0-beta.1.nupkg.sha512",
+    "C:\\Users\\Satinder\\.nuget\\packages\\selenium.support\\4.0.0-alpha07\\selenium.support.4.0.0-alpha07.nupkg.sha512",
+    "C:\\Users\\Satinder\\.nuget\\packages\\selenium.webdriver\\4.0.0-alpha07\\selenium.webdriver.4.0.0-alpha07.nupkg.sha512",
+    "C:\\Users\\Satinder\\.nuget\\packages\\selenium.webdriver.chromedriver\\87.0.4280.2000\\selenium.webdriver.chromedriver.87.0.4280.2000.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
